@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "time_capsule:block/weathered_time_capsule_block",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "time_capsule:block/weathered_time_capsule_block"
+    },
+    "facing=south": {
+      "model": "time_capsule:block/weathered_time_capsule_block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "time_capsule:block/weathered_time_capsule_block",
+      "y": 270
+    }
+  }
+}

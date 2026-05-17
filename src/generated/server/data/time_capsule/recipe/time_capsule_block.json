@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": "#c:ingots/copper",
+    "T": "time_capsule:time_capsule"
+  },
+  "pattern": [
+    "CCC",
+    "CTC",
+    "CCC"
+  ],
+  "result": {
+    "id": "time_capsule:time_capsule_block"
+  }
+}

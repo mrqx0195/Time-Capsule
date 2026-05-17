@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "time_capsule:block/oxidized_time_capsule_block"
+  }
+}

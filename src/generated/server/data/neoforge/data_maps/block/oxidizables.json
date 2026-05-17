@@ -1,0 +1,13 @@
+{
+  "values": {
+    "time_capsule:exposed_time_capsule_block": {
+      "next_oxidation_stage": "time_capsule:weathered_time_capsule_block"
+    },
+    "time_capsule:time_capsule_block": {
+      "next_oxidation_stage": "time_capsule:exposed_time_capsule_block"
+    },
+    "time_capsule:weathered_time_capsule_block": {
+      "next_oxidation_stage": "time_capsule:oxidized_time_capsule_block"
+    }
+  }
+}

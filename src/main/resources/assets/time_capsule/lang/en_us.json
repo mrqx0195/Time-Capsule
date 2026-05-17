@@ -1,0 +1,36 @@
+{
+  "item.time_capsule.time_capsule": "Time Capsule",
+
+  "block.time_capsule.time_capsule_block": "Time Capsule",
+  "block.time_capsule.exposed_time_capsule_block": "Exposed Time Capsule",
+  "block.time_capsule.weathered_time_capsule_block": "Weathered Time Capsule",
+  "block.time_capsule.oxidized_time_capsule_block": "Oxidized Time Capsule",
+  "block.time_capsule.waxed_time_capsule_block": "Waxed Time Capsule",
+  "block.time_capsule.waxed_exposed_time_capsule_block": "Waxed Exposed Time Capsule",
+  "block.time_capsule.waxed_weathered_time_capsule_block": "Waxed Weathered Time Capsule",
+  "block.time_capsule.waxed_oxidized_time_capsule_block": "Waxed Oxidized Time Capsule",
+
+  "container.time_capsule": "Time Capsule",
+
+  "gui.time_capsule.day": "Day: %s",
+  "gui.time_capsule.hour": "Hour: %s",
+  "gui.time_capsule.message": "Seal a message...",
+  "gui.time_capsule.minute": "Minute: %s",
+  "gui.time_capsule.mode.game_tick": "Game Time",
+  "gui.time_capsule.mode.real_time": "Real Time",
+  "gui.time_capsule.mode_toggle": "Mode: %s",
+  "gui.time_capsule.month": "Month: %s",
+  "gui.time_capsule.seal": "Seal Time Capsule",
+  "gui.time_capsule.second": "Second: %s",
+  "gui.time_capsule.year": "Year: %s",
+
+  "message.time_capsule.not_ready.0": "This memory is not yet ready to be unsealed...",
+  "message.time_capsule.not_ready.1": "You feel it is not yet time.",
+  "message.time_capsule.not_ready.2": "Perhaps... wait a little longer?",
+  "message.time_capsule.not_ready.3": "You think it over, and put it back.",
+  "message.time_capsule.not_ready.4": "But it refused.",
+
+  "tooltip.time_capsule.ready": "Ready to open",
+  "tooltip.time_capsule.remaining_time": "Remaining: %s d %s h %s m %s s",
+  "tooltip.time_capsule.sealed": "Sealed"
+}

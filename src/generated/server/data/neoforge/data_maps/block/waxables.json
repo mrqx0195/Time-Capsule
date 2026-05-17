@@ -1,0 +1,16 @@
+{
+  "values": {
+    "time_capsule:exposed_time_capsule_block": {
+      "waxed": "time_capsule:waxed_exposed_time_capsule_block"
+    },
+    "time_capsule:oxidized_time_capsule_block": {
+      "waxed": "time_capsule:waxed_oxidized_time_capsule_block"
+    },
+    "time_capsule:time_capsule_block": {
+      "waxed": "time_capsule:waxed_time_capsule_block"
+    },
+    "time_capsule:weathered_time_capsule_block": {
+      "waxed": "time_capsule:waxed_weathered_time_capsule_block"
+    }
+  }
+}

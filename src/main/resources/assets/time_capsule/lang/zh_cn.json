@@ -1,0 +1,36 @@
+{
+  "item.time_capsule.time_capsule": "时间胶囊",
+
+  "block.time_capsule.time_capsule_block": "时间胶囊",
+  "block.time_capsule.exposed_time_capsule_block": "斑驳的时间胶囊",
+  "block.time_capsule.weathered_time_capsule_block": "锈蚀的时间胶囊",
+  "block.time_capsule.oxidized_time_capsule_block": "氧化的时间胶囊",
+  "block.time_capsule.waxed_time_capsule_block": "涂蜡的时间胶囊",
+  "block.time_capsule.waxed_exposed_time_capsule_block": "涂蜡的斑驳时间胶囊",
+  "block.time_capsule.waxed_weathered_time_capsule_block": "涂蜡的锈蚀时间胶囊",
+  "block.time_capsule.waxed_oxidized_time_capsule_block": "涂蜡的氧化时间胶囊",
+
+  "container.time_capsule": "时间胶囊",
+
+  "gui.time_capsule.day": "日：%s",
+  "gui.time_capsule.hour": "时：%s",
+  "gui.time_capsule.message": "封存一段话语……",
+  "gui.time_capsule.minute": "分：%s",
+  "gui.time_capsule.mode.game_tick": "游戏时间",
+  "gui.time_capsule.mode.real_time": "现实时间",
+  "gui.time_capsule.mode_toggle": "模式：%s",
+  "gui.time_capsule.month": "月：%s",
+  "gui.time_capsule.seal": "封存时间胶囊",
+  "gui.time_capsule.second": "秒：%s",
+  "gui.time_capsule.year": "年：%s",
+
+  "message.time_capsule.not_ready.0": "这段回忆还没到该启封的时刻……",
+  "message.time_capsule.not_ready.1": "你觉得还不是时候。",
+  "message.time_capsule.not_ready.2": "或许……可以再等等？",
+  "message.time_capsule.not_ready.3": "你想了想，最后还是把它放了回去。",
+  "message.time_capsule.not_ready.4": "但是它拒绝了。",
+
+  "tooltip.time_capsule.ready": "等待启封",
+  "tooltip.time_capsule.remaining_time": "剩余时间：%s 天 %s 小时 %s 分 %s 秒",
+  "tooltip.time_capsule.sealed": "已封存"
+}

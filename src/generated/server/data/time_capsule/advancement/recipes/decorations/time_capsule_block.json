@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "time_capsule:time_capsule_block"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_time_capsule": {
+      "conditions": {
+        "items": [
+          {
+            "items": "time_capsule:time_capsule"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_time_capsule"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "time_capsule:time_capsule_block"
+    ]
+  }
+}
