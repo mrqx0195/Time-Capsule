@@ -155,7 +155,7 @@ public class TimeCapsuleScreen extends AbstractContainerScreen<TimeCapsuleMenu> 
         this.seconds = Math.max(0, this.seconds + delta);
     }
     
-    private void onSeal(Button button) {
+    private void onSeal(Button ignoredButton) {
         Component message = Component.empty();
         if (this.messageInput != null) {
             String inputValue = this.messageInput.getValue();

@@ -8,7 +8,6 @@ import net.minecraft.network.chat.Component;
 import net.minecraft.network.chat.ComponentSerialization;
 import net.minecraft.world.ContainerHelper;
 import net.minecraft.world.item.ItemStack;
-import net.minecraft.world.level.Level;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.level.storage.ValueInput;
@@ -34,10 +33,6 @@ public class BlockEntityTimeCapsule extends BlockEntity {
     
     public boolean isSealed() {
         return this.data != null;
-    }
-    
-    public boolean isOpenable(Level level) {
-        return this.data != null && this.data.isOpenable(level);
     }
     
     @Nullable
